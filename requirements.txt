@@ -1,0 +1,187 @@
+# =====================================
+# Core & Environment
+# =====================================
+pip
+setuptools
+wheel
+virtualenv
+python-dotenv
+loguru
+tqdm
+click
+rich
+colorama
+
+# =====================================
+# Networking / HTTP
+# =====================================
+requests
+httpx
+urllib3
+aiohttp
+httplib2
+
+# =====================================
+# Web Development
+# =====================================
+flask
+django
+fastapi
+uvicorn
+starlette
+jinja2
+
+# =====================================
+# API / Serialization
+# =====================================
+pydantic
+marshmallow
+orjson
+ujson
+
+# =====================================
+# Database
+# =====================================
+sqlalchemy
+psycopg2-binary
+pymysql
+redis
+motor
+
+# =====================================
+# Data Science
+# =====================================
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# =====================================
+# Machine Learning / AI
+# =====================================
+scikit-learn
+tensorflow
+torch
+xgboost
+lightgbm
+
+# =====================================
+# Web Scraping / Automation
+# =====================================
+beautifulsoup4
+lxml
+selenium
+playwright
+scrapy
+
+# =====================================
+# Cyber Security / Networking
+# =====================================
+scapy
+paramiko
+impacket
+netaddr
+netifaces
+python-nmap
+dnspython
+shodan
+
+# =====================================
+# Cryptography / Encryption 🔐
+# =====================================
+cryptography
+pycryptodome
+pycryptodomex
+pyopenssl
+bcrypt
+passlib
+argon2-cffi
+hashlib
+jwt
+python-jose
+
+# =====================================
+# Reverse Engineering / Binary
+# =====================================
+capstone
+keystone-engine
+unicorn
+pefile
+
+# =====================================
+# File / Data Handling
+# =====================================
+pillow
+openpyxl
+python-docx
+PyPDF2
+pdfminer.six
+
+# =====================================
+# CLI / Terminal Tools
+# =====================================
+blessed
+prompt-toolkit
+
+# =====================================
+# Async / Performance
+# =====================================
+asyncio
+uvloop
+gevent
+
+# =====================================
+# Testing
+# =====================================
+pytest
+pytest-asyncio
+hypothesis
+
+# =====================================
+# Date & Time
+# =====================================
+python-dateutil
+pytz
+
+# =====================================
+# Config / Parsing
+# =====================================
+pyyaml
+toml
+
+# =====================================
+# Logging / Monitoring
+# =====================================
+sentry-sdk
+
+# =====================================
+# Security / Auth
+# =====================================
+authlib
+itsdangerous
+
+# =====================================
+# OS / System Interaction
+# =====================================
+psutil
+watchdog
+
+# =====================================
+# Data Generation / Validation
+# =====================================
+faker
+validators
+email-validator
+
+# =====================================
+# Messaging / Queue
+# =====================================
+celery
+kombu
+
+# =====================================
+# Misc Advanced Tools
+# =====================================
+tabulate
+humanize
